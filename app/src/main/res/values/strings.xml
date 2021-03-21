@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lista De Compras</string>
+    <dimen name="margem">25dp</dimen>
+    <string-array name="array_setores">
+        <item>Hortifruti</item>
+        <item>Padaria</item>
+        <item>Açougue</item>
+        <item>Geladeira</item>
+        <item>Mantimentos</item>
+        <item>Etc</item>
+    </string-array>
+    <string-array name="array_ordem">
+        <item>Data de incremento</item>
+        <item>Nome</item>
+        <item>Quantidade</item>
+        <item>Setor</item>
+    </string-array>
+</resources>
